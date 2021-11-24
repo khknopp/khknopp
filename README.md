@@ -3,6 +3,7 @@
 #### Some cool stats about me:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khknopp&count_private=true&show_icons=true&theme=tokyonight)
+---
 ![General stats](https://github-readme-stats.vercel.app/api?username=khknopp&count_private=true&show_icons=true&theme=tokyonight)
 
 <!--
