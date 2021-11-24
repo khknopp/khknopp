@@ -1,7 +1,9 @@
 ### Hello there!
 
-Some cool stats about me:
-![khknopp's GitHub stats](https://github-readme-stats.vercel.app/api?username=khknopp&count_private=true&show_icons=true)
+#### Some cool stats about me:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khknopp&count_private=true&show_icons=true&theme=tokyonight)
+![General stats](https://github-readme-stats.vercel.app/api?username=khknopp&count_private=true&show_icons=true&theme=tokyonight)
 
 <!--
 Here are some ideas to get you started:
