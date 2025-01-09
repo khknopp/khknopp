@@ -5,17 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khknopp&theme=dracula&no-bg=true" alt="khknopp" /></a> </p>
 
-- 🔭 I’m currently working on [Langur](https://github.com/khknopp/langur-python)
+- 🔭 I’m currently working on [mitiq](https://github.com/unitaryfund/mitiq)
 
-- 🌱 I’m currently learning **Rust, Haskell**
+- 🌱 I’m currently learning **Rust, Haskell, Julia**
 
-- 👯 I’m looking to collaborate on [botique](https://botique.pl)
-
-- 🤝 I’m looking for help with [code4change](https://nonprofit.org.pl)
-
-- 👨‍💻 All of my projects are available at [https://kajetan.knopp.com.pl](https://kajetan.knopp.com.pl)
-
-- 📝 I regularly write articles on [https://kajetan.knopp.com.pl/blog](https://kajetan.knopp.com.pl/blog)
+- 👨‍💻 Most of my projects are available at [https://kajetan.knopp.com.pl](https://kajetan.knopp.com.pl)
 
 - 💬 Ask me about **Python, ML, R, qiskit, Quantum Computing or anything else...I'll try to help**
 
